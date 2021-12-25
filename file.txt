@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-file branch1
-||||||| a36971f
-=======
 branch2 
->>>>>>> branch2
