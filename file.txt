@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master
-=======
-test branch1
->>>>>>> branch1
+file mastert
